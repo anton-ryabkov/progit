@@ -1,10 +1,10 @@
 %%%-------------------------------------------------------------------
 %%% @author Anton N Ryabkov <anton.ryabkov@gmail.com>
-%%% @copyright (C) 2011, Eltex
+%%% @copyright (C) 2016, Eltex
 %%% @doc
 %%% 
 %%% @end
-%%% Created :  4 Apr 2011 by Anton N Ryabkov <anton.ryabkov@gmail.com>
+%%% Created :  10 Nov 2016 by Anton N Ryabkov <anton.ryabkov@gmail.com>
 %%%-------------------------------------------------------------------
 -module(iua_decoder).
 

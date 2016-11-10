@@ -1,6 +1,6 @@
 %%%-------------------------------------------------------------------
 %%% @author Anton N Ryabkov <anton.ryabkov@gmail.com>
-%%% @copyright (C) 2011, Eltex
+%%% @copyright (C) 2016, Eltex
 %%% @doc
 %%%
 %%% @end
