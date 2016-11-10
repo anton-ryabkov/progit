@@ -2,7 +2,7 @@
 %%% @author  Anton N Ryabkov <anton.ryabkov@gmail.com>
 %%% @doc
 %%% @end
-%%% @copyright 2011 Anton N Ryabkov
+%%% @copyright 2016 Anton N Ryabkov
 %%%----------------------------------------------------------------
 -module(iua_lib_sup).
 
